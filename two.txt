@@ -1,0 +1,1 @@
+The $ symbol at the beginning indicates that you should enter the command git status at the command prompt. The command itself (git status in this case) is what you should type after the $ symbol to interact with Git or perform other tasks in the terminal.
